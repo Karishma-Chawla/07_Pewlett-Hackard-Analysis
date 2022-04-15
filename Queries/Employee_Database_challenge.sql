@@ -12,7 +12,7 @@ FROM retirement_title
 WHERE to_date= '9999-01-01'
 ORDER BY emp_no, to_date DESC;
 
-Select DISTINCT (title) title, count(emp_no) 
+Select title, count(emp_no) 
 INTO retiring_titles
 from unique_titles
 GROUP BY title
