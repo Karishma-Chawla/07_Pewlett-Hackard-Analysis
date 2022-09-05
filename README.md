@@ -4,9 +4,12 @@
 The goal of this project was to determine list of retiring employees in the next few years for hypothetical company, Pewlett Hackard 
 and the positions (and titles) that the company needs to fill. 
 
+![image](https://user-images.githubusercontent.com/98617082/188520217-b2f00c0b-d94b-4f96-82d3-2edad4035557.png)
+
 ## Data 
 10 CSV Files with data on Employees, departments, managers salaries, titles, retiring titles.
 
+Size 65 MB
 ![image](https://user-images.githubusercontent.com/98617082/188519978-fec9df14-fe28-4d54-b043-aec4aa083cad.png)
 
 
