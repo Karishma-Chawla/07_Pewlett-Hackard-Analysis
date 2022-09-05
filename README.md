@@ -1,8 +1,14 @@
 # Pewlett-Hackard-Analysis
 
-## Overview of the analysis
+## Objective
 The goal of this project was to determine list of retiring employees in the next few years for hypothetical company, Pewlett Hackard 
 and the positions (and titles) that the company needs to fill. 
+
+## Data 
+10 CSV Files with data on Employees, departments, managers salaries, titles, retiring titles.
+
+![image](https://user-images.githubusercontent.com/98617082/188519978-fec9df14-fe28-4d54-b043-aec4aa083cad.png)
+
 
 ## Results:
 
